@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+}
+.row{
+    display: flex;
+}
+.col{
+    border: 1px solid #020b13;
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
